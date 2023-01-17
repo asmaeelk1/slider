@@ -1,0 +1,11 @@
+.container{
+    width: 85%;
+    height: 65%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    width: 55%;
+    height: 55%;
+}
